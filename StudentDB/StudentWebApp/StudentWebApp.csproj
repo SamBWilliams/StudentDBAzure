@@ -188,6 +188,7 @@
     <Content Include="Models\StudenDBModel.edmx.diagram">
       <DependentUpon>StudenDBModel.edmx</DependentUpon>
     </Content>
+    <None Include="Properties\PublishProfiles\StudentWebApp47 - Web Deploy.pubxml" />
     <None Include="Scripts\jquery-3.3.1.intellisense.js" />
     <Content Include="Scripts\jquery-3.3.1.js" />
     <Content Include="Scripts\jquery-3.3.1.min.js" />

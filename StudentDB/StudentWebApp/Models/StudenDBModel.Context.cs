@@ -16,7 +16,8 @@ namespace StudentWebApp.Models
     public partial class StudentDBEntities : DbContext
     {
         public StudentDBEntities()
-            : base("name=StudentDBEntities")
+            //: base("name=StudentDBEntities")
+            : base("StudentDBConnection")
         {
         }
     
